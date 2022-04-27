@@ -17,3 +17,6 @@ D:\Coding\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\netcoreapp3.1\
 D:\Coding\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\netcoreapp3.1\TrackerUI.CreateTeamForm.resources
 D:\Coding\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\netcoreapp3.1\TrackerUI.CreateTournamentForm.resources
 D:\Coding\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\netcoreapp3.1\TrackerUI.TournamentDashboardForm.resources
+D:\Coding\TournamentTracker\TournamentTracker\TrackerUI\bin\Debug\netcoreapp3.1\TrackerLibrary.dll
+D:\Coding\TournamentTracker\TournamentTracker\TrackerUI\bin\Debug\netcoreapp3.1\TrackerLibrary.pdb
+D:\Coding\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\netcoreapp3.1\TrackerUI.csproj.CopyComplete
