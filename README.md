@@ -1,3 +1,1 @@
-Tournament tracker app 
-following Tim Corey's course
-https://youtu.be/wfWxdh-_k_4
+Tournament tracker app created by following Tim Corey's course https://youtu.be/wfWxdh-_k_4
