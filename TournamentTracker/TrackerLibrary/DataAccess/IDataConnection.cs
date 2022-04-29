@@ -8,7 +8,10 @@ namespace TrackerLibrary.DataAccess
     public interface IDataConnection
     {
         //TODO - wire up the CreatePrize for text files.
-        PrizeModel CreatePrize(PrizeModel model); 
+        PrizeModel CreatePrize(PrizeModel model);
+
+        PersonModel CreatePerson(PersonModel model);
+        List<PersonModel> GetPerson_All();
 
     }
 }
