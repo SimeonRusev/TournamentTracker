@@ -306,8 +306,7 @@ namespace TrackerUI
         private System.Windows.Forms.TextBox emailValue;
         private System.Windows.Forms.Label emailLabel;
         private System.Windows.Forms.Button createMemberButton;
-        private System.Windows.Forms.ListBox teamMembersListBox;
-        private System.Windows.Forms.Button deleteSelectedMembersButton;
+        private System.Windows.Forms.ListBox teamMembersListBox;        
         private System.Windows.Forms.Button createTeamButton;
         private System.Windows.Forms.Button removeSelectedMembersButton;
     }
